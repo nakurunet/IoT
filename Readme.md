@@ -1,7 +1,13 @@
-##IOT PY PROJECT 1
+##IOT PY PROJECTS
 
-Skip:
+Req:
 *Hardware development && Firmware Development*
 **Base**
 
-This is a sample work on IoT done in pyhton 
+This repo contains collections of work on IoT done in python
+
+**File contents**
+**Project 1**
+*Test.py* - All app tests
+*cubot.py* - Module for cubot smartwatch + tweaks
+*main.py*
