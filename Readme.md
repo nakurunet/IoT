@@ -14,6 +14,6 @@ This repo contains collections of work on IoT done in python
 
 *Test.py* - All app tests 
 
-*cubot.py* - Module for cubot smartwatch + tweaks
+*smartw.py* - Module for smartwatch + tweaks
 
 *main.py*
